@@ -1,0 +1,3 @@
+﻿  servidor.c
+C:\Users\berna\Desktop\isec\IRC\exercicios\ex2\servidor\servidor.c(84,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  servidor.vcxproj -> C:\Users\berna\Desktop\isec\IRC\exercicios\ex2\x64\Debug\servidor.exe
