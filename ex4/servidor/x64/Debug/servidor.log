@@ -1,0 +1,4 @@
+﻿  servidor.c
+C:\Users\berna\Desktop\isec\IRC\exercicios\ex4\servidor\servidor.c(86,35): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\berna\Desktop\isec\IRC\exercicios\ex4\x64\Debug\servidor.exe for writing

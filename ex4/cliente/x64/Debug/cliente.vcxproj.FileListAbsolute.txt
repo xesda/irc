@@ -1,0 +1,3 @@
+C:\Users\berna\Desktop\isec\IRC\exercicios\cliente\x64\Debug\cliente.exe
+C:\Users\berna\Desktop\isec\IRC\exercicios\ex2\cliente\x64\Debug\cliente.exe
+C:\Users\berna\Desktop\isec\IRC\exercicios\ex4\cliente\x64\Debug\cliente.exe

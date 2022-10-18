@@ -1,0 +1,3 @@
+﻿  cliente.c
+C:\Users\berna\Desktop\isec\IRC\exercicios\ex4\cliente\cliente.c(68,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  cliente.vcxproj -> C:\Users\berna\Desktop\isec\IRC\exercicios\ex4\x64\Debug\cliente.exe
